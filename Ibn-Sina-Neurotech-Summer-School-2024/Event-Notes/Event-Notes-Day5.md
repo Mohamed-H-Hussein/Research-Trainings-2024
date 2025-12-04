@@ -20,7 +20,7 @@
 
 * Students worked in groups on **mini-projects**
 
-* Detailed workflow and results are available in the [Project Folder](./Project)
+* Detailed workflow and results are available in the Project Folder
 
 
 ---
