@@ -22,7 +22,7 @@ This folder contains **personal notes, summaries, and project materials** from t
 | Prof. Dr. Mahmoud Hassan        | Reykjavik University, Iceland                                      |
 | Prof. Dr. Abdelkader Nasreddine | United Arab Emirates University, UAE                               |
 | Dr. Mohamed Abdelhack           | The Centre for Addiction and Mental Health (CAMH), Canada          |
-| Dr. Nour El-Madany              | The American University in Cairo, Egypt                            |
+| Dr. Nour El-Madany              | Ryerson University, Canada                            |
 | Dr. Slobodan Tanackovic         | g.tec medical engineering GmbH, Austria                            |
 
 ---
