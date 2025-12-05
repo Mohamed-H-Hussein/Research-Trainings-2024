@@ -157,6 +157,16 @@ It is part of the **Research training 2024 repository** and is fully authored by
 
 Hussein, Mohamed H. (2025). *Research training 2024* [Summary, Notes and Project]. GitHub repository: [https://github.com/Mohamed-H-Hussein/Research-Trainings-2024](https://github.com/Mohamed-H-Hussein/Research-Trainings-2024)
 
+**Usage:**
+This folder serves as a **personal learning and skill-tracking resource** for:
+
+* Reviewing multi-omics concepts relevant to the hackathon
+* Practicing the data analysis workflows applied during BioHack I
+* Supporting professional development and scientific documentation
+* Serving as a personal reference for ongoing and future cancer and neuro-oncology projects
+
+All materials authored by me are available for **educational and non-commercial use**, provided proper **citation is included**. Any reused or modified material should clearly acknowledge the original author. Hackathon-provided materials remain under the **copyright and license of the original organizers**.
+
 ---
 
 ## 📜 License
