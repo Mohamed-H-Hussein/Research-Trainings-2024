@@ -72,8 +72,9 @@ BioHack_I_Challenge/
 ├── README.md
 ├── Event-Notes.md
 └── Challenge/
-      ├── Challenge12_Analysis_Report.md        # Full challenge analysis (RNA-seq + ChIP-seq)
-      └── Challenge12_Project.pdf        # Final presentation of results
+    ├── README.md                           # Overview of the challenge
+    ├── Challenge12_Analysis_Report.md      # Full challenge analysis (RNA-seq + ChIP-seq)
+    └── Challenge12_Project.pdf             # Final presentation of results
 ```
 
 ---
