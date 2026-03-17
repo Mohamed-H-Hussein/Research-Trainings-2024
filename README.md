@@ -27,6 +27,7 @@ Research-Trainings-2024/
 │   ├── README.md                             # Overview of the hackathon, challenges, objectives, and key skills acquired
 │   ├── Event-Notes.md                        # Detailed session notes, highlights from lectures, mentorship, and workshops
 │   └── Challenge/                            # Contains files related to the main hackathon challenge
+│       ├── README.md                         # Overview of the challenge 
 │       ├── Challenge12_Analysis_Report.md   # Multi-omics integration analysis report (RNA-seq, ChIP-seq, networks, biomarkers)
 │       └── Challenge12_Project.pdf          # Final presentation summarizing methods, results, and conclusions
 │
@@ -40,6 +41,7 @@ Research-Trainings-2024/
 │   │     ├── Event-Notes-Day4.md             # Day 4: Machine learning (CCA, SVM) on EEG data
 │   │     └── Event-Notes-Day5.md             # Day 5: Ethics, future directions, project presentations
 │   └── Project/                              # EEG analysis project folder with reproducible workflow
+│         ├── README.md                      # Overview of the project 
 │         ├── SSVEP-CCA-Analysis-Report.md   # Main EEG project report: preprocessing, CCA analysis, results
 │         ├── presentation/                   # Folder containing project presentation slides
 │         │     └── SSVEP-CCA-Project-Presentation.pdf
