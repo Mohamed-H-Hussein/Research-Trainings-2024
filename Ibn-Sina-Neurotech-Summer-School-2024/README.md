@@ -55,6 +55,7 @@ Ibn-Sina-Neurotech-Summer-School-2024/
 │     ├── Event-Notes-Day4.md           # Notes from Day 4
 │     └── Event-Notes-Day5.md           # Notes from Day 5
 └── Project/
+      ├── README.md       # Overview of the project 
       ├── SSVEP-CCA-Analysis-Report.md       # Main report
       ├── presentation/
       │     └── SSVEP-CCA-Project-Presentation.pdf   # Final slides summarizing project
