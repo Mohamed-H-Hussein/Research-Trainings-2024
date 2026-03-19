@@ -1,7 +1,7 @@
 
 # 💻 Research Trainings 2024 Repository
  
-This repository **contains my personal notes, analysis reports, project materials, and summaries**from three research major training events in 2024. It highlights **hands-on experience in multi-omics bioinformatics for neuro-oncology, neurotechnology, and biodiversity genomics**, developed alongside my M.Sc. in Biochemistry and Molecular Biology.
+This repository **contains my personal notes, analysis reports, project materials, and summaries**from three research major training events in 2024. It highlights **hands-on experience in bioinformatics for neuro-oncology, neurotechnology, and biodiversity genomics**, developed alongside my M.Sc. in Biochemistry and Molecular Biology.
 
 ---
 
@@ -28,7 +28,7 @@ Research-Trainings-2024/
 │   ├── Event-Notes.md                        # Detailed session notes, highlights from lectures, mentorship, and workshops
 │   └── Challenge/                            # Contains files related to the main hackathon challenge
 │       ├── README.md                         # Overview of the challenge 
-│       ├── Challenge12_Analysis_Report.md   # Multi-omics integration analysis report (RNA-seq, ChIP-seq, networks, biomarkers)
+│       ├── Challenge12_Analysis_Report.md   # challenge analysis report 
 │       └── Challenge12_Project.pdf          # Final presentation summarizing methods, results, and conclusions
 │
 ├── Ibn-Sina-Neurotech-Summer-School-2024/   
@@ -87,9 +87,9 @@ Contains **notes, multi-omics analysis reports, and project presentation** from 
 
 * **README.md** — Overview of the hackathon, challenge topic, objectives, and skills acquired.
 * **Event-Notes.md** — Detailed session notes, including key lectures, workshops, mentorship sessions, and hackathon activities.
-* **Challenge/** — Contains the multi-omics challenge work:
+* **Challenge/** — Contains the Data Analysis challenge work:
 
-  * `Challenge12_Analysis_Report.md` — Complete analysis report integrating RNA-seq and ChIP-seq datasets.
+  * `Challenge12_Analysis_Report.md` — Complete analysis report for ChIP-seq datasets.
   * `Challenge12_Project.pdf` — Presentation summarizing methodology, results, and conclusions.
 
 ---
@@ -131,7 +131,7 @@ This folder documents **hands-on genomics training, bioinformatics workflows, bi
 
 These trainings were selected to:
 
-* Gain hands-on experience in **multi-omics analysis, EEG-based neurotechnology, and genomics**
+* Gain hands-on experience in **Data analysis, EEG-based neurotechnology, and genomics**
 * Apply computational methods to **biological and biomedical datasets**
 * Integrate theoretical knowledge with **practical project workflows**
 * Enhance skills in **data analysis, visualization, and scientific reporting**
@@ -143,7 +143,7 @@ These trainings were selected to:
 
 As an **M.Sc. candidate in Biochemistry & Molecular Biology**, specializing in **Molecular Cancer Biology and Bioinformatics**, these trainings provided experience in:
 
-* Multi-omics data integration and analysis
+* Data analysis and integration 
 * EEG signal processing and machine learning for BCI applications
 * Genomic workflows in biodiversity and bioinformatics pipelines
 * Scientific documentation, reproducible workflows, and collaborative research
@@ -153,7 +153,7 @@ As an **M.Sc. candidate in Biochemistry & Molecular Biology**, specializing in *
 
 ## 🛠️ Key Skills Developed
 
-* **Bioinformatics & Multi-Omics:** RNA-seq, ChIP-seq, peak annotation, functional enrichment, GRN construction
+* **Bioinformatics Analysis:** ChIP-seq, peak annotation, functional enrichment, GRN construction
 * **Neurotechnology & EEG Analysis:** Signal preprocessing, feature extraction, machine learning (CCA), visualization
 * **Genomics & Biodiversity:** Sequencing workflows, OTU analysis, taxonomic classification, bioinformatics pipelines
 * **Programming & Data Analysis:** R programming, Python/Jupyter, MATLAB for EEG data, reproducible workflows
@@ -168,7 +168,7 @@ As an **M.Sc. candidate in Biochemistry & Molecular Biology**, specializing in *
 
 * Actively participated in all three research trainings, attending lectures, workshops, and practical sessions.
 * Independently compiled detailed **event notes, project reports, and analysis workflows**.
-* Executed **multi-omics analyses, EEG-based project workflows, and bioinformatics pipelines**.
+* Executed **Data analyses, EEG-based project workflows, and bioinformatics pipelines**.
 * Organized all materials into **well-structured GitHub folders** to ensure clarity and reproducibility.
 
 ---
