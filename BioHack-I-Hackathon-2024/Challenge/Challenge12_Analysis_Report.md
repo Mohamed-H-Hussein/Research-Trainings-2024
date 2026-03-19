@@ -67,43 +67,34 @@ A multi-step computational workflow was designed to integrate chromatin marks wi
 
 ### **4.3 SE–Gene Associations**
 
-* SEs located near key prognostic markers:
+* SE regions were **associated with** key prognostic markers, including IDH, CDKN2A, and ATRX. Elevated H3K27ac signals are **consistent with active regulatory regions**, though functional validation is required.
 
-  * **IDH**
-  * **CDKN2A**
-  * **ATRX**
-* Strong H3K27ac signals indicate active regulatory roles.
 
 ### **4.4 SE Linked to RHO Pathway**
 
-* SE discovered **20 kb upstream of the RHO gene**.
-* Rho GTPases (RhoA, Rac1, Cdc42) drive GB invasion and migration.
+* A **putative super-enhancer** was identified approximately 20 kb upstream of the RHO gene, suggesting a potential role in pathways related to glioblastoma invasion and migration.
 
 ### **4.5 Motif & TF Analysis**
 
-* Three enriched motifs identified in SE-Rho.
-* Predicted TFs:
-
-  * **RREB1, EGR1, KLF9, ZSCAN4, MSANTD3, NR5A1**
-* Linked to tumor progression and cancer stemness.
+* Motif enrichment analysis identified three enriched motifs within SE regions. These motifs are **predicted to be recognized by TFs** including RREB1, EGR1, KLF9, ZSCAN4, MSANTD3, and NR5A1.
 
 ---
 
 ## **5. Key Insights**
 
-* Enhancer and SE signatures help classify GB subtypes.
-* SE-Rho is a strong candidate driver of GB aggressiveness.
-* SEs regulate key prognostic genes (IDH, ATRX, CDKN2A).
-* Identified TFs may control invasion and progression programs.
+* Enhancer and super-enhancer signatures are associated with GB subtype-specific epigenetic landscapes. 
+* A putative SE near the RHO locus may be linked to pathways involved in GB invasion. 
+* SE regions are associated with key prognostic genes, including IDH, ATRX, and CDKN2A. 
+* Predicted TFs may contribute to transcriptional programs related to tumor progression. 
 
 ---
 
 ## **6. Conclusion**
 
-1. SEs are associated with major GB prognostic markers.
+1. Super-enhancers are associated with major GB prognostic markers.
 2. Rho GTPase signaling is consistently enriched across GB samples.
-3. SE-Rho may contribute to GB progression.
-4. TFs binding SE-Rho highlight a regulatory pathway worth investigating.
-5. In vitro and in vivo studies are required for validation.
-6. Targeting SE complexes represents a potential therapeutic strategy in GB.
+3. A putative SE near RHO may contribute to GB-related pathways.
+4. Predicted TFs highlight candidate regulatory mechanisms.
+5. Experimental validation is required to confirm these findings.
+6. These results provide a hypothesis-generating framework for future studies.
 
