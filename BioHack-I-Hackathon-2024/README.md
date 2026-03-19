@@ -1,7 +1,7 @@
 
 # 💻 BioHack I Hackathon: Bridging Biotechnology, Pharmacogenomics & Bioinformatics
 
-This folder presents notes and analyses from the BioHack I Hackathon, including Challenge 12: *Epigenetic Signatures & Prognostic Gene Expression in Glioblastoma*. The work involved analyzing **RNA-seq** and **ChIP-seq datasets**, integrating **gene expression** with **epigenetic marks**, and applying **bioinformatics tools** for **multi-omics integration** in **neuro-oncology research**.
+This folder presents notes and analyses from the BioHack I Hackathon, including Challenge 12: *Epigenetic Signatures & Prognostic Gene Expression in Glioblastoma*. The work involved analyzing **ChIP-seq and RNA-seq datasets** with **bioinformatics tools**, focusing on applications in neuro-oncology research.
 
 ---
 
@@ -37,7 +37,7 @@ BioHack I gathered students and researchers from biotechnology, computer science
 * Welcome sessions and keynote scientific talks
 * Technical workshops and skill-building sessions
 * Challenge presentations and team-based problem solving
-* Hands-on work with **RNA-seq, ChIP-seq, and other biological datasets**, integrating multiple data types
+* Hands-on work with **ChIP-seq, RNA-seq, and other biological datasets**, integrating multiple data types
 * Continuous mentorship and collaborative teamwork
 
 Participants applied computational methods to **analyze and interpret multi-omics datasets**, developing reproducible workflows and generating biologically relevant insights.
@@ -50,7 +50,7 @@ Participants applied computational methods to **analyze and interpret multi-omic
 
 ### **Unraveling Epigenetic Signatures Associated with Prognostic Gene Expression Profiles in Glioblastoma**
 
-This challenge focused on integrating **RNA-seq** and **ChIP-seq** data to uncover epigenetic signatures linked to cancer prognosis—specifically analyzing **enhancers, super-enhancers, transcription factor motifs, and chromatin marks**.
+This challenge focused on integrating **ChIP-seq** and **RNA-seq** data to uncover epigenetic signatures linked to cancer prognosis—specifically analyzing **enhancers, super-enhancers, transcription factor motifs, and chromatin marks**.
 
 ### **Objectives:**
 
@@ -86,7 +86,7 @@ Contains the full agenda, keynote highlights, and structured notes summarizing s
 [Open Event-Notes](./Event-Notes.md)
 
 ### Challenge12_Analysis_Report.md
-A detailed multi-omics workflow containing:
+A detailed Data Analysis workflow containing:
 
 - ChIP-seq peak annotation
 - Enhancer & super-enhancer detection
@@ -94,7 +94,6 @@ A detailed multi-omics workflow containing:
 - GREAT-based gene association
 - Motif discovery (MEME, JASPAR)
 - Functional enrichment
-- Integration with RNA-seq DEGs
 - Identification of prognostic markers (e.g., IDH, ATRX, CDKN2A, RHO)  
 
 [Open Challenge12_Analysis_Report](./Challenge/Challenge12_Analysis_Report.md)
@@ -115,10 +114,10 @@ The final presentation summarizing:
 ---
 ## 🎯 Relevance to My Field
 
-As an MSc candidate in Biochemistry & Molecular Biology, specializing in Molecular Cancer Biology, participating in the BioHack I Hackathon provided **practical, hands-on experience in multi-omics analysis and the integration of transcriptomic and epigenetic data**. The challenge enhanced applied skills in:
+As an MSc candidate in Biochemistry & Molecular Biology, specializing in Molecular Cancer Biology, participating in the BioHack I Hackathon provided **practical, hands-on experience in Data analysis**. The challenge enhanced applied skills in:
 
 * **Chromatin biology**: identifying and annotating enhancers and super-enhancers, linking epigenetic marks to gene regulation.
-* **Multi-omics integration**: combining RNA-seq and ChIP-seq datasets for comprehensive analysis.
+* **Date Analysis**: ChIP-seq datasets for comprehensive analysis.
 * **Epigenetic regulation in cancer**: exploring transcription factor motifs and chromatin landscapes associated with prognostic markers in glioblastoma.
 * **Translational bioinformatics**: implementing computational pipelines to derive biologically meaningful insights with relevance to cancer prognosis and therapy.
 
@@ -127,10 +126,8 @@ This experience **strengthened skills directly relevant to my MSc specialization
 ---
 ## 🛠️ Skills Acquired
 
-* **RNA-seq data analysis (DESeq2, visualization)**
 * **ChIP-seq analysis (peak calling, annotation, region comparison)**
 * Gene regulatory network construction
-* Multi-omics data integration
 * Epigenetic data interpretation
 * R programming & biological visualization
 * Working with IGV, Cytoscape, MEME Suite, JASPAR
@@ -145,8 +142,8 @@ This experience **strengthened skills directly relevant to my MSc specialization
 
 * Actively participated in team discussions, analysis decisions, and mentorship sessions throughout the hackathon.
 * Conducted a portion of the final team presentation, communicating key results to the audience.
-* Prepared the **Challenge12_Analysis_Report.md** independently to ensure reproducibility, clarity, and proper documentation of the multi-omics workflow.
-* Collaborated with team members to integrate RNA-seq and ChIP-seq analyses, construct regulatory networks, and interpret epigenetic signatures.
+* Prepared the **Challenge12_Analysis_Report.md** independently to ensure reproducibility, clarity, and proper documentation of the Data Analysis workflow.
+* Collaborated with team members to ChIP-seq analyses and RNA-seq analysis, and interpret epigenetic signatures.
 ---
 
 ## 📝 Citation & Usage
